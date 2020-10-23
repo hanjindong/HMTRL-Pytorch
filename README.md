@@ -3,7 +3,7 @@ This is a Pytorch implementation of HMTRL architecture as described in the paper
 Route Representation Learning.
 
 <p align="center">
-  <img width="950" height="300" src=./figs/framework.png>
+  <img width="900" height="300" src=./figs/framework.png>
 </p>
 
 # Requirements
